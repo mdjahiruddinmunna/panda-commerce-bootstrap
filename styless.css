@@ -1,0 +1,34 @@
+.panda-bg-main {
+    background-color: #fceae8;
+}
+
+.categories-watch-bg {
+    background-color: #ffa500;
+}
+
+.categories-backpack-bg {
+    background-color: #da70d6;
+}
+
+.categories-shoes-bg {
+    background-color: #0000ff;
+}
+
+.panda-btn-buy-now {
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.panda-btn-buy-now:hover {
+    background-image: linear-gradient(to bottom, #FF196F, #FF589B);
+}
+img {
+    transition: all 0.5s ease;
+  }
+  img:hover {
+    transform: scale(1.1);
+  }
